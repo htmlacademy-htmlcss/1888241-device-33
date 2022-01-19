@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Евгений Ярман](https://up.htmlacademy.ru/htmlcss/33/user/1888241).
-* Наставник: `Неизвестно`.
+* Наставник: [Артём Картавый](https://htmlacademy.ru/profile/artem_k)
 
 ---
 
